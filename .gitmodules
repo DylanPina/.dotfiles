@@ -1,0 +1,9 @@
+[submodule "ghostty"]
+	path = .config/ghostty
+	url = git@github.com:DylanPina/ghostty-config.git
+[submodule "tmux"]
+	path = .config/tmux
+	url = git@github.com:DylanPina/tmux-config.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = git@github.com:DylanPina/neovim-config.git

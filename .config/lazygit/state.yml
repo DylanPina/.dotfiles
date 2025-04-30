@@ -2,14 +2,13 @@ lastupdatecheck: 0
 recentrepos:
 - /Users/dillonpina/.dotfiles
 - /Users/dillonpina/.dotfiles/.config/nvim
-- /Users/dillonpina/Documents/code/rucshub
-- /Users/dillonpina/code/rucshub
 - /Users/dillonpina/.dotfiles/.config/tmux
 - /Users/dillonpina/.dotfiles/.config/ghostty
+- /Users/dillonpina/Documents/code/rucshub
+- /Users/dillonpina/code/rucshub
 - /Users/dillonpina/Documents/code/dsa
 - /Users/dillonpina/Documents/grad/linear-algebra/alaff/alaff-repo
 - /Users/dillonpina/.config/tmux
-- /Users/dillonpina/.config/ghostty
 - /Users/dillonpina/code/dsa
 - /Users/dillonpina/Documents/code/build-an-llm
 - /Users/dillonpina/code/build-an-llm
