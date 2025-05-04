@@ -50,6 +50,10 @@ alias gco='git checkout'
 alias t='tmux'
 alias tns='tmux new -s'
 alias tks='tmux kill-session'
+alias tkow='tmux kill-window -a > /dev/null'
+alias tkop='tmux kill-pane -a > /dev/null'
+alias tko='{tkop && tkow} > /dev/null'
+alias tjp='tmux join-pane -h -t :'
 
 # Lazygit aliases
 alias lg='lazygit'
