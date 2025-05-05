@@ -22,6 +22,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Terminal essentials aliases
 alias c="clear"
+alias e="exit"
 alias ls="lsd"
 alias l='ls -l'
 alias la='ls -a'
