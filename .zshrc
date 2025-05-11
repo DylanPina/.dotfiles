@@ -55,7 +55,7 @@ alias tks!='tmux kill-server'
 alias tkow='tmux kill-window -a > /dev/null'
 alias tkop='tmux kill-pane -a > /dev/null'
 alias tko='{tkop && tkow} > /dev/null'
-alias tjp='tmux join-pane -h -t :'
+alias tjp='tmux join-pane -t'
 alias tsw='tmux swap-window -t'
 
 # Lazygit aliases
