@@ -39,6 +39,7 @@ alias py="python"
 # Nvim
 alias v='nvim'
 alias code='nvim'
+alias nvc='~/.dotfiles/.config/nvim'
 export EDITOR="nvim"
 export VISUAL="nvim"
 
