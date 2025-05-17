@@ -29,6 +29,9 @@ alias la='ls -a'
 alias lla='ls -la'
 alias lt='ls --tree'
 
+# Cool Linux aliases
+alias kj="kill -9 $(jobs -p | awk '{print $3}') # Kills all jobs"
+
 # Python aliases
 alias py="python"
 
