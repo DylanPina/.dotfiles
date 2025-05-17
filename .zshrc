@@ -29,8 +29,7 @@ alias la='ls -a'
 alias lla='ls -la'
 alias lt='ls --tree'
 
-# Cool Linux aliases
-alias kj="kill -9 $(jobs -p | awk '{print $3}') # Kills all jobs"
+# Linux aliases
 alias sz="source ~/.zshrc"
 
 # Python aliases
@@ -54,6 +53,7 @@ alias gco='git checkout'
 
 # Tmux aliases
 alias t='tmux'
+alias tls='tmux ls'
 alias tns='tmux new -s'
 alias tks='tmux kill-session'
 alias tks!='tmux kill-server'
